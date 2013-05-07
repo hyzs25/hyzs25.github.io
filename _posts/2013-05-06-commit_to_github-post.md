@@ -7,9 +7,9 @@ tags: [git github]
 ---
 {% include JB/setup %}
 
-# <div style="background-color:#C7E2F7; width:700px; height:55px; border:1px; text-align:center; padding-top:1px"><h3>怎样提交代码到github上</h3></div>
+# <div style="background-color:#C7E2F7; width:650px; height:55px; border:1px; text-align:center; padding-top:1px"><h3 style="margin-top:20px; border:0px">怎样提交代码到github上</h3></div>
 
-  <div style="background-color:#f5f5f5; width:700px; height:auto; border:1px">
+  <div style="background-color:#f5f5f5; width:650px; height:auto; border:1px">
   <ol style="padding:20px 20px">
   <li>在本地库目录下放置要提交的文件</li>
   <li>cmd中执行命令git add .  (单个文件提交后面为文件名)，若删除文件命令为git rm (要删除的文件名)</li>
