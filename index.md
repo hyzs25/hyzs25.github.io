@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 贺洋的blog
+title: Jonas的blog
 tagline: 不能则学，不知则问。
 ---
 {% include JB/setup %}
