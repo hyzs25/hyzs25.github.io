@@ -12,5 +12,7 @@ tags: [git]
   <div style="background-color:#f5f5f5; width:650px; height:auto; border:1px">
   <ul style="padding:20px 20px">
   <li>git本地库初始化配置：git init 在本地建一个git库</li>
+  <li>git和远程github建立连接：git remote add origin http://-----------.git git remote -v用来查看当前origin的库名，若要移除连接的话执行git remote rm origin </li>
+ 
   </ul>
   </div>
