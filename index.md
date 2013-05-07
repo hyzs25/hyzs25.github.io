@@ -5,7 +5,7 @@ tagline: 不能则学，不知则问。
 ---
 {% include JB/setup %}
 
-## <div style="background-color:#3C84BF; border:1px solid; font-family:微软雅黑, 'Microsoft YaHei'; padding-left:15px;"><h4 style="color:#fff; margin-top:10px">===My Post===</h4></div>
+## <div style="background-color:#3C84BF; border:1px solid; font-family:微软雅黑, 'Microsoft YaHei'; padding-left:15px; margin:-20px auto 8px auto;" ><h4 style="color:#fff; margin-top:10px">===My Post===</h4></div>
 <div style="background:#ECECEC; width:650px; display:block padding:0">
 <ul class="posts" style="list-style:none; padding:0; margin:0">
   {% for post in site.posts %}
