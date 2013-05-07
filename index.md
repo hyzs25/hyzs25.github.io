@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jonas的blog
+title: Windy的blog
 tagline: 不能则学，不知则问。
 ---
 {% include JB/setup %}
